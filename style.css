@@ -1,3 +1,7 @@
+body {
+  background-image: url();
+}
+
 h1 {
   font-size: 65px;
 }
@@ -5,7 +9,6 @@ h1 {
 .message {
   font-size: 40px;
 }
-
 
 .info {
   font-size: 20px;
@@ -19,7 +22,7 @@ a {
   color: limegreen;
 }
 
-a:hover{
+a:hover {
   color: blue;
 }
 
@@ -31,11 +34,11 @@ img {
   width: 225px;
   height: 150px;
   margin-bottom: 5px;
-  border: 3px ridge limegreen ;
+  border: 3px ridge limegreen;
 }
 
 img:hover {
-  border: 3px ridge blue ;
+  border: 3px ridge blue;
 }
 
 #ricardo {
